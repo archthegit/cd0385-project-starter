@@ -37,12 +37,12 @@ Hyperparameter tuning, to see if I can make more improvement on the score
 
 ### Create a line plot showing the top model score for the three (or more) training runs during the project.
 
-![model_train_score.png](img/model_train_score.png)
+![model_train_score.png](model_train_score.png)
 
 ### Create a line plot showing the top kaggle score for the three (or more) prediction submissions during the project.
 
 
-![model_test_score.png](img/model_test_score.png)
+![model_test_score.png](model_test_score.png)
 
 ## Summary
 As illustrated in the diagram there was a sharp increase in performance with the exploratory data analysis phase of this exercise, however the performance plateaus even as I attempted to perform hyperparameter tuning. Given more time, This is what I would focus on.
